@@ -1,1 +1,1 @@
-# TgquizeBot
+# TgquizeBot бот для квиииз
